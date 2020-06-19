@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class nextlevelcol : MonoBehaviour
 {
-    // Start is called before the first frame update
 
     private void OnTriggerEnter2D(Collider2D col)
     {
